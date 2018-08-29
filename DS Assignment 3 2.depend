@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1526193650 source:e:\bt3 kda\ds assignment 3 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+
+1526193792 source:e:\ds assignment 3\ds assignment 3 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+
